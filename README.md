@@ -16,6 +16,6 @@
   <a href = "mailto:j.osmarcaitano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ozumaru/ozumaru/blob/output/github-contribution-grid-snake.svg)
   
 </div>
