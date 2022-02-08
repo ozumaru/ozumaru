@@ -10,10 +10,10 @@
 - Eu não pretendo trazer conteudo só de Python, há outras Ferramentas como 🔨Ansible, ⛏Terraform, 🔧Linux que também tenho em mente para contribuir com informação
   Mas Lembrando... esse é o inicio da minha grande jornada nesse mundo Digital! 🤖
 
-Pois como diz o nosso Herói do Espaço... 👨‍🚀🚀
+Pois como diz o nosso Herói do Espaço...
 
 <h1>
-  <p align="center">  Ao Infinito... E Além!</p>
+  <p align="center">  👨‍🚀Ao Infinito... E Além!🚀</p>
   <p align="center"><img title="Readme" src="https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif" alt="README" ></p>
 </h1>
 
