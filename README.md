@@ -3,10 +3,9 @@
 - 🔭 Atualmente eu trabalho com Redes 🌱 estou buscando me desenvolver com Linguagens de Programação e compartilhar conhecimento.
 
 - 🏍Tenho buscado a utilização de Python🐍 para me auxiliar a criar 🛠 ferramentas para a minha area e assim ajudar a otimizar ações repetitivas, 
-  ou até mesmo fazer coletas de informação ou até mesmo aplicar comandos em diversos equipamentos de forma simultanea.
+  ou até mesmo fazer coletas de informação ou mesmo aplicar comandos em diversos equipamentos de forma simultanea.
 
-- 🤓 E meu intuito aqui, alem de buscar a aprender mais e mais, é ajudar aqueles que também tiveram a mesma ideia para criar ferramentas e mostrar como 
-  eu cheguei naquele resultado, e assim com pensamento colaborativo, crescer esse Share knowledge! 🐱‍🏍
+- 🤓 E meu intuito aqui, alem de buscar me incentivar a aprender mais e mais, é ajudar aqueles que também tiveram a mesma ideia/dificuldade para criar ferramentas e eu   farei o possivel para exemplificar como cheguei naquele resultado, e assim com pensamento colaborativo, crescer esse Share knowledge! 🐱‍🏍
   
 - Eu não pretendo trazer conteudo só de Python, há outras Ferramentas como 🔨Ansible, ⛏Terraform, 🔧Linux que também tenho em mente para contribuir com informação
   Mas Lembrando... esse é o inicio da minha grande jornada nesse mundo Digital! 🤖
@@ -19,9 +18,15 @@ Pois como diz o nosso Herói do Espaço... 👨‍🚀🚀
 </h1>
 
 ---
-<h4 align="center">
-  🚧  Projeto README 🚀 Em contrução 🚧
-</h4>
+## 🥊 Projetos 🥋
+  - [Python para Network](https://github.com/ozumaru/CiscoDevNet---Python) - Em andamento 🚧
+
+---
+## 🎮 Tecnologias 🕹
+
+As seuintes ferramentas foram usadas na construção dos projetos 
+
+  - [Python](https://www.python.org) 
 
 ---
 <div align="center">
@@ -39,3 +44,8 @@ Pois como diz o nosso Herói do Espaço... 👨‍🚀🚀
 ![Snake animation](https://github.com/ozumaru/ozumaru/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+---
+<h4 align="center">
+  🚧  Projeto README 🚀 Em contrução 🚧
+</h4>
