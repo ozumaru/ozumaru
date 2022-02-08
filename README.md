@@ -25,7 +25,7 @@ Pois como diz o nosso Herói do Espaço...
 ---
 ## 🎮 Tecnologias 🕹
 
-As seuintes ferramentas foram usadas na construção dos projetos 
+As seguintes ferramentas foram usadas na construção dos projetos 
 
   - [Python](https://www.python.org) 
 
