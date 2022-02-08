@@ -1,4 +1,4 @@
-### Olá, Eu sou o José Osmar!👾
+<h2><p align="center"> Olá, Eu sou o José Osmar!👾</p></h2>
 
 - 🔭 Atualmente eu trabalho com Redes 🌱 estou buscando me desenvolver com Linguagens de Programação e compartilhar conhecimento.
 
