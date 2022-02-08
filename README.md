@@ -1,8 +1,29 @@
-### Olá, Eu sou o José Osmar! 👋
+### Olá, Eu sou o José Osmar!👾
 
-- 🔭 Atualmente eu trabalho com Redes
-- 🌱 Estou buscando aprender Programação (Por enquanto: Python) 
+- 🔭 Atualmente eu trabalho com Redes 🌱 estou buscando me desenvolver com Linguagens de Programação e compartilhar conhecimento.
 
+- 🏍Tenho buscado a utilização de Python🐍 para me auxiliar a criar 🛠 ferramentas para a minha area e assim ajudar a otimizar ações repetitivas, 
+  ou até mesmo fazer coletas de informação ou até mesmo aplicar comandos em diversos equipamentos de forma simultanea.
+
+- 🤓 E meu intuito aqui, alem de buscar a aprender mais e mais, é ajudar aqueles que também tiveram a mesma ideia para criar ferramentas e mostrar como 
+  eu cheguei naquele resultado, e assim com pensamento colaborativo, crescer esse Share knowledge! 🐱‍🏍
+  
+- Eu não pretendo trazer conteudo só de Python, há outras Ferramentas como 🔨Ansible, ⛏Terraform, 🔧Linux que também tenho em mente para contribuir com informação
+  Mas Lembrando... esse é o inicio da minha grande jornada nesse mundo Digital! 🤖
+
+Pois como diz o nosso Herói do Espaço... 👨‍🚀🚀
+
+<h1>
+  <p align="center">  Ao Infinito... E Além!</p>
+  <p align="center"><img title="Readme" src="https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif" alt="README" ></p>
+</h1>
+
+---
+<h4 align="center">
+  🚧  Projeto README 🚀 Em contrução 🚧
+</h4>
+
+---
 <div align="center">
   <a href="https://github.com/ozumaru">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ozumaru&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
