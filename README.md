@@ -7,8 +7,9 @@
 
 - 🤓 E meu intuito aqui, alem de buscar me incentivar a aprender mais e mais, é ajudar aqueles que também tiveram a mesma ideia/dificuldade para criar ferramentas e eu   farei o possivel para exemplificar como cheguei naquele resultado, e assim com pensamento colaborativo, crescer esse Share knowledge! 🐱‍🏍
   
-- Eu não pretendo trazer conteudo só de Python, há outras Ferramentas como 🔨Ansible, ⛏Terraform, 🔧Linux que também tenho em mente para contribuir com informação
-  Mas Lembrando... esse é o inicio da minha grande jornada nesse mundo Digital! 🤖
+- Eu não pretendo trazer conteudo só de Python, há outras Ferramentas como 🔨Ansible, ⛏Terraform, 🔧Linux que também tenho em mente para contribuir com informação!
+
+Mas Lembrando... esse é o inicio da minha grande jornada nesse mundo Digital! 🤖
 
 Pois como diz o nosso Herói do Espaço...
 
