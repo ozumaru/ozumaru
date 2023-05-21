@@ -22,7 +22,7 @@ Pois como diz o nosso Herói do Espaço...
 ## 🥊 Projetos 🥋
   - [Python para Network](https://github.com/ozumaru/CiscoDevNet---Python) - Em andamento 🚧
   - [Sublime Text](https://github.com/ozumaru/Ozumaru-Sublime-Text-) - Concluido 👽
-  - [Ansible] - Em Planejamento 👨🏻‍💻
+  - Ansible - Em Planejamento 👨🏻‍💻
 ---
 ## 🎮 Tecnologias 🕹
 
