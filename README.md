@@ -18,7 +18,7 @@ Pois como diz o nosso Herói do Espaço...
 </h1>
 
 <p align="center">
-  <img src="https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif" width="350">
+  <img src="https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif" width="700">
 </p>
 
   
