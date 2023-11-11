@@ -18,6 +18,17 @@ Pois como diz o nosso Herói do Espaço...
   <p align="center"><img title="Readme" src="lightyear-buzz-lightyear.gif" alt="README"></p>
 </h1>
 
+<div align="center">
+  <table>
+    <tr>
+      <td><b>👨‍🚀Ao Infinito... E Além!🚀</b></td> 
+    </tr>
+    <tr>
+      <td><img src="https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif"></td> 
+    </tr>
+  </table>
+</div>
+
 ---
 ## 🥊 Projetos 🥋
   - [Python para Network](https://github.com/ozumaru/CiscoDevNet---Python) - Em andamento 🚧
