@@ -13,19 +13,11 @@ Mas Lembrando... esse é o inicio da minha grande jornada nesse mundo Digital! �
 
 Pois como diz o nosso Herói do Espaço...
 
-
-
-<h1>
-  <p align="center">  👨‍🚀Ao Infinito... E Além!🚀</p> 
-</h1>
-
 <p align="center">
   <h1><p align="center">  👨‍🚀Ao Infinito... E Além!🚀</p></h1>
  <p align="center"> <img src="https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif" width="700">
 </p>
-  
 
-  
 ---
 ## 🥊 Projetos 🥋
   - [Python para Network](https://github.com/ozumaru/CiscoDevNet---Python) - Em andamento 🚧
