@@ -20,16 +20,10 @@ Pois como diz o nosso Herói do Espaço...
 </h1>
 
 <p align="center">
-  <p align="center">  👨‍🚀Ao Infinito... E Além!🚀</p> 
-  <img src="https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif" width="700">
+  <h1><p align="center">  👨‍🚀Ao Infinito... E Além!🚀</p></h1>
+ <p align="center"> <img src="https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif" width="700">
 </p>
-
-<h1>
-  <p align="center">
-    <p>👨‍🚀Ao Infinito... E Além!🚀</p> 
-    <img src="https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif" width="700">
-  </p>
-</h1>
+  
 
   
 ---
