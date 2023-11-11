@@ -1,4 +1,4 @@
-<h2><p align="center"> 👾Olá, Eu sou o José OsMar!🌊</p></h2>
+<h1><p align="center"> 👾Olá, Eu sou o José OsMar!🌊</p></h1>
 
 - 🔭 Atualmente eu trabalho com Redes 🌱 estou buscando me desenvolver com Linguagens de Programação e compartilhar conhecimento.
 
@@ -43,6 +43,7 @@ As seguintes ferramentas foram usadas na construção dos projetos
   <a href="https://www.linkedin.com/in/jose-osmar-caitano-06089113a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:j.osmarcaitano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+![Snake animation](https://github.com/ozumaru/ozumaru/blob/output/github-contribution-grid-snake.svg)
 ![Snake animation](https://github.com/ozumaru/ozumaru/blob/output/github-contribution-grid-snake.svg)
   
 </div>
