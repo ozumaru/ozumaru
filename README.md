@@ -14,11 +14,12 @@ Mas Lembrando... esse é o inicio da minha grande jornada nesse mundo Digital! �
 Pois como diz o nosso Herói do Espaço...
 
 <h1>
-  <p align="center">  👨‍🚀Ao Infinito... E Além!🚀</p>
-  <p align="center">
-    <img src="https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif" alt="README"></p>
-  </p>
+  <p align="center">  👨‍🚀Ao Infinito... E Além!🚀</p> 
 </h1>
+
+<p align="center">
+  <img src="https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif" width="350">
+</p>
 
   
 ---
