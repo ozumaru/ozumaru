@@ -15,9 +15,8 @@ Pois como diz o nosso Herói do Espaço...
 
 <h1>
   <p align="center">  👨‍🚀Ao Infinito... E Além!🚀</p>
-  <p align="center"><img title="Readme" src="https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif" alt="README" ></p>
+  <p align="center"><img title="Readme" src="lightyear-buzz-lightyear.gif" alt="README"></p>
 </h1>
-![using a color picker](https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif)
 
 ---
 ## 🥊 Projetos 🥋
