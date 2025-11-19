@@ -1,6 +1,7 @@
  <h1><p align="center"> 👾Olá, Eu sou o José OsMar!🌊</p></h1>
 
 - 🔭 Atualmente eu trabalho com Redes 🌱 estou buscando me desenvolver com Linguagens de Programação e compartilhar conhecimento.
+
 - teste
 
 - 🏍Tenho buscado a utilização de Python🐍 para me auxiliar a criar 🛠 ferramentas para a minha area e assim ajudar a otimizar ações repetitivas, 
