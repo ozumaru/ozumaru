@@ -27,9 +27,17 @@ Pois como diz o nosso Herói do Espaço...
 ---
 ## 🎮 Tecnologias 🕹
 
-As seguintes ferramentas foram usadas na construção dos projetos 
+As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos 
 
-  - [Python](https://www.python.org) 
+  Ferramentas: 
+  - [Python](https://www.python.org)
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [Sublime Text 3](https://www.sublimetext.com/)
+  - [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
+  Bibliotecas:
+  - [netmiko](https://github.com/ktbyers/netmiko)
+  
 
 ---
 <div align="center">
