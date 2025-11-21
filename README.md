@@ -38,7 +38,7 @@ Pois como diz o nosso Herói do Espaço...
 
 ---
 # Inicial
-## Preparando o Ambiente de Ambiente
+## Preparando o Ambiente
   - [Preparando o Ambiente](https://github.com/ozumaru/CiscoDevNet---Python/tree/master/Documents/Preparando_Ambiente) - Concluido 👽
 
 ## Passo-a-Passo inicial
