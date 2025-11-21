@@ -20,7 +20,8 @@ Pois como diz o nosso Herói do Espaço...
 
 ---
 ## 🥊 Projetos 🥋
-  - [Python para Network](https://github.com/ozumaru/CiscoDevNet---Python) - Em andamento 🚧
+  - [Mini_Projetos - Python para Network](https://github.com/ozumaru/CiscoDevNet---Python/tree/master/Documents/Projetos) - Em andamento 🚧 - NEW ! ! ! 🤯
+  - [Python para Network](https://github.com/ozumaru/CiscoDevNet---Python) - Concluido 👽
   - [Sublime Text](https://github.com/ozumaru/Ozumaru-Sublime-Text) - Concluido 👽
   - Ansible - Em Planejamento 👨🏻‍💻
 ---
