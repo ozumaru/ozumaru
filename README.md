@@ -98,7 +98,7 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
 
 <p align="center">
   <a href=> <img src="https://github.com/ozumaru/ozumaru/blob/main/Devnet_Associate.png" width="100"></a>
-  <a href=> <img src="https://github.com/ozumaru/ozumaru/blob/main/RD_Associate.png" width="100"></a>
+  <a href=> <img src="https://github.com/ozumaru/ozumaru/blob/main/RS_Associate.png" width="100"></a>
 </p>
 
 ---
