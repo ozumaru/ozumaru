@@ -1,31 +1,35 @@
- <h1><p align="center"> 👾Olá, Eu sou o José OsMar!🌊</p></h1>
+<h1><p align="center"> 👾Olá, Eu sou o José OsMar!🌊</p></h1>
 
-- 🔭 Atualmente eu trabalho com Redes 🌱 estou buscando me desenvolver com Linguagens de Programação e compartilhar conhecimento.
+## 👋 Sobre mim
 
-- 🏍Tenho buscado a utilização de Python🐍 para me auxiliar a criar 🛠 ferramentas para a minha area e assim ajudar a otimizar ações repetitivas, 
-  ou até mesmo fazer coletas de informação ou mesmo aplicar comandos em diversos equipamentos de forma simultanea.
+🔭 Trabalho atualmente com **Infraestrutura de Redes** e estou em constante evolução no mundo da **programação** e **automação**, buscando sempre aprender e compartilhar o que sei.
 
-- 🤓 E meu intuito aqui, alem de buscar me incentivar a aprender mais e mais, é ajudar aqueles que também tiveram a mesma ideia/dificuldade para criar ferramentas e eu   farei o possivel para exemplificar como cheguei naquele resultado, e assim com pensamento colaborativo, crescer esse Share knowledge! 🐱‍🏍
-  
-- Eu não pretendo trazer conteudo só de Python, há outras Ferramentas como 🔨Ansible, ⛏Terraform, 🔧Linux que também tenho em mente para contribuir com informação!
+🐍 Tenho usado **Python** para criar ferramentas que facilitam meu dia a dia: automatizar tarefas repetitivas, coletar informações de vários equipamentos ao mesmo tempo e aplicar comandos simultaneamente na rede.  
+Esses projetos nasceram da necessidade real de agilizar processos — e agora compartilho tudo aqui para ajudar quem está na mesma jornada.
 
-Mas Lembrando... esse é o inicio da minha grande jornada nesse mundo Digital! 🤖
+🤓 Meu objetivo neste espaço é duplo:  
+1. Me manter motivado a aprender cada vez mais.  
+2. Ajudar quem também quer automatizar seu ambiente, mostrando meu raciocínio e o caminho que segui para chegar nos resultados.
 
-⚠️ Atenção:  
-O que venho trazer aqui são Experiencias que eu adiquiri que foram se somando desde 2017 até os dias de hoje.
-- 🧐 Meu foco Principal é Infraestrutura de Redes, mas sei um pouco de Python, então eu sou uma pessoa de Infra que aprendeu programação para lidar com o dia a dia nesse mundo de redes, e agora estou a compartilhar isso.
+🔧 Além de Python, também pretendo trazer conteúdos envolvendo **Ansible**, **Netmiko**, **RestAPI**, **Linux** e outras ferramentas que fazem parte do meu cotidiano.
 
-- 👽 Caso você chegou aqui por algum milagre em busca de aprender Python do Zero de formas mais Didatica e bem mais focado em Conceito, eu vou te passar exatamente o caminho que fiz, e é o caminho que eu passo para TODO MUNDO para aprender.
+---
 
-Segue essas duas Playlists:
+## ⚠️ Antes de tudo
 
-⚠️ OBS: Tudo que for link que direcione para outro lugar a não ser internamente no GITHUB como os projetos abaixo, abra com o botão direito + nova aba, pois assim vai abrir uma nova aba e vai manter essa em aberto.
+Tudo o que compartilho aqui vem de experiências acumuladas desde **2017 até hoje**, trabalhando diariamente com Redes.  
+Sou alguém da área de Infra que aprendeu programação para resolver problemas reais — e agora estou passando esse conhecimento adiante.
 
-- **ME SALVA**: Onde você vai aprender o Basico sobre Algoritimo e Lógica Computacional
-  - [ME SALVA](https://www.youtube.com/watch?v=ntBxoTSnfkA&list=PLf1lowbdbFIBoLeVGwkCYySkLS1lV3ixF)
+Se você caiu aqui buscando aprender **Python do zero**, quero te indicar EXATAMENTE o caminho que eu recomendo para todo mundo que me pergunta:
 
-- **Curso em Video**: Onde você vai aprender de forma FANTASTICA sobre Python Conceito por Conceito, tendo Diversos exercicios, com o Mestre Renomado: **Gustavo Guanabara**
-  - [Curso em Video](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=2)
+---
+
+## 📌 Recomendações de estudo
+
+🔹 [ME SALVA](https://www.youtube.com/watch?v=ntBxoTSnfkA&list=PLf1lowbdbFIBoLeVGwkCYySkLS1lV3ixF) – Ideal para aprender **Algoritmo e Lógica Computacional**. 
+🔹 [Curso em Video](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=2) – A forma mais didática e gratuita de aprender **Python do básico ao avançado**, com muitos exercícios.
+
+**Dica:** Abra os links em “nova aba” para não sair do GitHub. 😉
 
 Esses são meus dois pontos de referencia para começar nesse mundo de programação, e foi onde eu comecei, sou muito grato a eles. 👽🤖❤️‍🔥
 
@@ -61,7 +65,6 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
 
   Bibliotecas:
   - [netmiko](https://github.com/ktbyers/netmiko)
-  
 
 ---
 <div align="center">
@@ -74,6 +77,7 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
   <img align="left" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <a href="https://www.instagram.com/ozumaru/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-osmar-caitano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.youtube.com/@NetDevOps_Ozumaru" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
   <a href = "mailto:j.osmarcaitano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
