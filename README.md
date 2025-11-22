@@ -94,6 +94,11 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
   </div>
 </div>
 
+
+<p align="center">
+  <p align="center"> <img src="https://github.com/ozumaru/ozumaru/blob/main/Devnet_Associate.png" width="250">
+</p>
+
 ---
 <h4 align="center">
   🚧  Projeto README 🚀 Em contrução 🚧
