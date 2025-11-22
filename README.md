@@ -34,11 +34,11 @@ Se você caiu aqui buscando aprender **Python do zero**, quero te indicar EXATAM
 
 Esses são meus dois pontos de referencia para começar nesse mundo de programação, e foi onde eu comecei, sou muito grato a eles. 👽🤖❤️‍🔥
 
-Pois como diz o nosso Herói do Espaço...
+E assim, como o Sung Jinwoo diria:
+"Eu renasço a cada desafio, assim como o Shadow Monarch ergue seus exércitos. O mundo pode tentar me derrubar, mas toda queda é apenas o momento em que desperto um novo poder. Eu não caminho… eu avanço. Eu não desisto… eu evoluo. Porque, no fim, só existe um caminho: subir de nível até que até o impossível se curve diante de mim."
 
 <p align="center">
-  <h1><p align="center">  👨‍🚀Ao Infinito... E Além!🚀</p></h1>
-  <p align="center"> <img src="https://github.com/ozumaru/ozumaru/blob/main/lightyear-buzz-lightyear.gif" width="700">
+  <p align="center"> <img src="https://github.com/ozumaru/ozumaru/blob/main/jinwoo.gif" width="700">
 </p>
 
 ---
