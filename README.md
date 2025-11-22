@@ -26,7 +26,8 @@ Se você caiu aqui buscando aprender **Python do zero**, quero te indicar EXATAM
 
 ## 📌 Recomendações de estudo
 
-🔹 [ME SALVA](https://www.youtube.com/watch?v=ntBxoTSnfkA&list=PLf1lowbdbFIBoLeVGwkCYySkLS1lV3ixF) – Ideal para aprender **Algoritmo e Lógica Computacional**. 
+🔹 [ME SALVA](https://www.youtube.com/watch?v=ntBxoTSnfkA&list=PLf1lowbdbFIBoLeVGwkCYySkLS1lV3ixF) – Ideal para aprender **Algoritmo e Lógica Computacional**.
+\
 🔹 [Curso em Video](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=2) – A forma mais didática e gratuita de aprender **Python do básico ao avançado**, com muitos exercícios.
 
 **Dica:** Abra os links em “nova aba” para não sair do GitHub. 😉
