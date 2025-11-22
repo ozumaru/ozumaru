@@ -34,10 +34,6 @@ Se você caiu aqui buscando aprender **Python do zero**, quero te indicar EXATAM
 
 Esses são meus dois pontos de referencia para começar nesse mundo de programação, e foi onde eu comecei, sou muito grato a eles. 👽🤖❤️‍🔥
 
-<!-- E assim, como o Sung Jin-woo diria:
-\
-"Eu renasço a cada desafio, assim como o Shadow Monarch ergue seus exércitos. O mundo pode tentar me derrubar, mas toda queda é apenas o momento em que desperto um novo poder. Eu não caminho… eu avanço. Eu não desisto… eu evoluo. Porque, no fim, só existe um caminho: subir de nível até que até o impossível se curve diante de mim." -->
-
 > ### ⚔️ **E assim como o lendário Sung Jin-Woo diria…**
 > “Eu renasço a cada desafio, assim como o Shadow Monarch ergue seus exércitos.  
 > O mundo pode tentar me derrubar, mas toda queda é apenas o momento em que desperto um novo poder.  
