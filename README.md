@@ -110,6 +110,7 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
       <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /><br/>Postman</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /><br/>Linux</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=ansible" width="50" height="50" /><br/>Ansible</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" /><br/>PyCharm</td>
     </tr>
   </table>
 </div>
