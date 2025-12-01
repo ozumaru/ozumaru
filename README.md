@@ -101,7 +101,7 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
       <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /><br/>Postman</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /><br/>Linux</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=ansible" width="50" height="50" /><br/>Ansible</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=netmiko" width="50" height="50" /><br/>netmiko</td>
+      <td align="center"><img src="https://ktbyers.github.io/netmiko/images/netmiko_logo_gh.png" width="50" height="50" /><br/>netmiko</td>
     </tr>
   </table>
 </div>
