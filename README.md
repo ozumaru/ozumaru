@@ -92,6 +92,15 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
   </table>
 </div> 
 
+### 📚 Bibliotecas
+<div align="left">
+  <table>
+    <tr> 
+      <td align="center"><img src="https://ktbyers.github.io/netmiko/images/netmiko_logo_gh.png" width="100" height="50" /><br/>netmiko</td>
+    </tr>
+  </table>
+</div> 
+
 ### 🛠 Ferramentas & Tecnologias
 <div align="left">
   <table>
@@ -101,7 +110,6 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
       <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /><br/>Postman</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /><br/>Linux</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=ansible" width="50" height="50" /><br/>Ansible</td>
-      <td align="center"><img src="https://ktbyers.github.io/netmiko/images/netmiko_logo_gh.png" width="50" height="50" /><br/>netmiko</td>
     </tr>
   </table>
 </div>
