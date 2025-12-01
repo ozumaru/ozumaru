@@ -88,6 +88,8 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
   <table>
     <tr> 
       <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" /><br/>Python</td> 
+      <td align="center"><img src="https://skillicons.dev/icons?i=json" width="50" height="50" /><br/>Json</td> 
+      <td align="center"><img src="https://skillicons.dev/icons?i=yaml" width="50" height="50" /><br/>YML</td> 
     </tr>
   </table>
 </div> 
