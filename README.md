@@ -84,23 +84,23 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
 ## 💼 Ferramentas, Tecnologias e meus conhecimentos
 
 ### 💻 Linguagens
-<div align="center">
+<div align="left">
   <table>
     <tr> 
-      <td align="left"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" /><br/>Python</td> 
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" /><br/>Python</td> 
     </tr>
   </table>
 </div> 
 
 ### 🛠 Ferramentas & Tecnologias
-<div align="center">
+<div align="left">
   <table>
     <tr> 
-      <td align="left"><img src="https://skillicons.dev/icons?i=sublime" width="50" height="50" /><br/>Sublime Text</td> 
-      <td align="left"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /><br/>Visual Code</td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /><br/>Postman</td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /><br/>Linux</td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=ansible" width="50" height="50" /><br/>Ansible</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=sublime" width="50" height="50" /><br/>Sublime Text</td> 
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /><br/>Visual Code</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /><br/>Postman</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /><br/>Linux</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ansible" width="50" height="50" /><br/>Ansible</td>
     </tr>
   </table>
 </div>
@@ -118,6 +118,17 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
 
 ---
 <div align="center">
+  <table>
+    <tr> 
+    <h2><p align="center">🏆Certificações🏆</p></h2>
+      <td align="center"><img src="https://github.com/ozumaru/ozumaru/blob/main/RS_Associate.png" width="100" height="100" width="100"></a><br/>CCNA: Routing&Switch</td>
+      <td align="center"><img src="https://github.com/ozumaru/ozumaru/blob/main/Devnet_Associate.png" width="100" height="100" width="100"></a><br/>CCNA: DevNet</td>
+    </tr>
+  </table>
+</div> 
+
+---
+<div align="center">
   <div style="display: inline_block"><br> 
     <img align="left" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
     <a href="https://www.instagram.com/ozumaru/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -127,17 +138,6 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
     <img align="Right" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   </div>
 </div>
-
----
-<div align="center">
-  <table>
-    <tr> 
-    <h2><p align="center">🏆Certificações🏆</p></h2>
-      <td align="center"><img src="https://github.com/ozumaru/ozumaru/blob/main/RS_Associate.png" width="100" height="100" width="100"></a><br/>CCNA: Routing&Switch</td>
-      <td align="center"><img src="https://github.com/ozumaru/ozumaru/blob/main/Devnet_Associate.png" width="100" height="100" width="100"></a><br/>CCNA: DevNet</td>
-    </tr>
-  </table>
-</div> 
 
 ---
 <h4 align="center">
