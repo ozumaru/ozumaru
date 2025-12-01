@@ -107,17 +107,6 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
 
 ---
 <div align="center">
-  <!-- GitHub Contribution Snake -->
-  <picture>
-    <h2><p align="center">🐍 Contribuições! 🐍</p></h2>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozumaru/ozumaru/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozumaru/ozumaru/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ozumaru/ozumaru/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-<div align="center">
   <table>
     <tr> 
     <h2><p align="center">🏆Certificações🏆</p></h2>
@@ -126,6 +115,16 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
     </tr>
   </table>
 </div> 
+
+---
+<div align="center">
+  <picture>
+    <h2><p align="center">🐍 Contribuições! 🐍</p></h2>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozumaru/ozumaru/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozumaru/ozumaru/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ozumaru/ozumaru/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 <h4 align="center">
