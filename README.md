@@ -81,15 +81,27 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
   - [netmiko](https://github.com/ktbyers/netmiko)
 
 ---
+### 💻 Languages
+<div align="center">
+  <table>
+    <tr> 
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" /><br/>Python</td> 
+    </tr>
+  </table>
+</div>
+
+---
 <div align="center">
   <!-- GitHub Contribution Snake -->
   <picture>
+    <h2><p align="center">🐍 Contribuições! 🐍</p></h2>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozumaru/ozumaru/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozumaru/ozumaru/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ozumaru/ozumaru/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
+---
 <div align="center">
   <div style="display: inline_block"><br> 
     <img align="left" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
