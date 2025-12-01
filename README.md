@@ -78,7 +78,7 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
   - [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
   Bibliotecas:
-  - [netmiko](https://github.com/ktbyers/netmiko)
+  - [Netmiko](https://github.com/ktbyers/netmiko)
 
 ---
 ## 💼 Ferramentas, Tecnologias e meus conhecimentos
