@@ -84,7 +84,7 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
 ## 💼 Ferramentas, Tecnologias e meus conhecimentos
 
 ### 💻 Linguagens
-<div align="left">
+<div align="center">
   <table>
     <tr> 
       <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" /><br/>Python</td> 
@@ -93,7 +93,7 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
 </div> 
 
 ### 📚 Bibliotecas
-<div align="left">
+<div align="center">
   <table>
     <tr> 
       <td align="center"><img src="https://ktbyers.github.io/netmiko/images/netmiko_logo_gh.png" width="100" height="50" /><br/>netmiko</td>
@@ -102,7 +102,7 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
 </div> 
 
 ### 🛠 Ferramentas & Tecnologias
-<div align="left">
+<div align="center">
   <table>
     <tr> 
       <td align="center"><img src="https://skillicons.dev/icons?i=sublime" width="50" height="50" /><br/>Sublime Text</td> 
