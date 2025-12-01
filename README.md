@@ -129,21 +129,15 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
 </div>
 
 ---
-### 🏆Certificações🏆
 <div align="center">
   <table>
     <tr> 
-      <td align="left"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" /><br/>Python</td>
+    <h2><p align="center">🏆Certificações🏆</p></h2>
       <td align="center"><img src="https://github.com/ozumaru/ozumaru/blob/main/RS_Associate.png" width="100" height="100" width="100"></a><br/>CCNA: Routing&Switch</td>
       <td align="center"><img src="https://github.com/ozumaru/ozumaru/blob/main/Devnet_Associate.png" width="100" height="100" width="100"></a><br/>CCNA: DevNet</td>
     </tr>
   </table>
-</div>
-
-<p align="center">
-  <a href=> <img src="https://github.com/ozumaru/ozumaru/blob/main/RS_Associate.png" width="100"></a>
-  <a href=> <img src="https://github.com/ozumaru/ozumaru/blob/main/Devnet_Associate.png" width="100"></a>
-</p>
+</div> 
 
 ---
 <h4 align="center">
