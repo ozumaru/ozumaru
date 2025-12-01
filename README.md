@@ -81,11 +81,26 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
   - [netmiko](https://github.com/ktbyers/netmiko)
 
 ---
-### 💻 Languages
+## 💼 Ferramentas, Tecnologias e meus conhecimentos
+
+### 💻 Linguagens
 <div align="center">
   <table>
     <tr> 
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" /><br/>Python</td> 
+      <td align="left"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" /><br/>Python</td> 
+    </tr>
+  </table>
+</div> 
+
+### 🛠 Ferramentas & Tecnologias
+<div align="center">
+  <table>
+    <tr> 
+      <td align="left"><img src="https://skillicons.dev/icons?i=sublime" width="50" height="50" /><br/>Sublime Text</td> 
+      <td align="left"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /><br/>Visual Code</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /><br/>Postman</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /><br/>Linux</td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=ansible" width="50" height="50" /><br/>Ansible</td>
     </tr>
   </table>
 </div>
@@ -114,6 +129,16 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
 </div>
 
 ---
+### 🏆Certificações🏆
+<div align="center">
+  <table>
+    <tr> 
+      <td align="left"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" /><br/>Python</td>
+      <td align="center"><img src="https://github.com/ozumaru/ozumaru/blob/main/RS_Associate.png" width="100" height="100" width="100"></a><br/>CCNA: Routing&Switch</td>
+      <td align="center"><img src="https://github.com/ozumaru/ozumaru/blob/main/Devnet_Associate.png" width="100" height="100" width="100"></a><br/>CCNA: DevNet</td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <a href=> <img src="https://github.com/ozumaru/ozumaru/blob/main/RS_Associate.png" width="100"></a>
