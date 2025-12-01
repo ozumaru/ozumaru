@@ -107,7 +107,6 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
     <tr> 
       <td align="center"><img src="https://skillicons.dev/icons?i=sublime" width="50" height="50" /><br/>Sublime Text</td> 
       <td align="center"><img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" /><br/>PyCharm</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="50" height="50" /><br/>Jupyter</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /><br/>Visual Code</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /><br/>Postman</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /><br/>Linux</td>
