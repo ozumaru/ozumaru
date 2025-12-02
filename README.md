@@ -16,7 +16,27 @@
   <img src="https://img.shields.io/badge/NetMiko-NM-00c118?style=flat-square&logo=netmiko&logoColor=white" alt="NetMiko" />
 </p>
 
-[![NetMiko](https://img.shields.io/badge/NetMiko-NM-00c118?style=flat-square&logo=netmiko&logoColor=white)](https://github.com/ktbyers/netmiko)
+<p align="center">
+
+  <!-- Profile Views -->
+  [![Profile Views](https://komarev.com/ghpvc/?username=ozumaru&label=Profile+Views&color=36BCF7&style=flat-square&labelColor=24292F&logo=eye&logoColor=36BCF7)](https://github.com/ozumaru)
+
+  <!-- Followers -->
+  [![GitHub Followers](https://img.shields.io/github/followers/ozumaru?label=Followers&style=flat-square&color=36BCF7)](https://github.com/ozumaru?tab=followers)
+
+  <!-- Python -->
+  [![Python](https://img.shields.io/badge/Python-PY-fff800?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+
+  <!-- Ansible -->
+  [![Ansible](https://img.shields.io/badge/Ansible-AN-ff0000?style=flat-square&logo=ansible&logoColor=white)](https://docs.ansible.com/)
+
+  <!-- VSCode -->
+  [![VSCode](https://img.shields.io/badge/VSCode-VS-0097ff?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
+  <!-- NetMiko -->
+  [![NetMiko](https://img.shields.io/badge/NetMiko-NM-00c118?style=flat-square&logo=netmiko&logoColor=white)](https://github.com/ktbyers/netmiko)
+
+</p>
 
 
 ## 👋 Sobre mim
