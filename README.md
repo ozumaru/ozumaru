@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ozumaru&label=Profile+Views&color=36BCF7&style=flat-square&labelColor=24292F&logo=eye&logoColor=36BCF7" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ozumaru?label=Followers&style=flat-square&color=36BCF7" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/following/ozumaru?label=Following&style=flat-square&color=36BCF7" alt="GitHub Following" />
 </p>
 
 
