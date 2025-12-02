@@ -17,7 +17,6 @@
 </p>
 
 <p align="center">
-
   <!-- Profile Views -->
   [![Profile Views](https://komarev.com/ghpvc/?username=ozumaru&label=Profile+Views&color=36BCF7&style=flat-square&labelColor=24292F&logo=eye&logoColor=36BCF7)](https://github.com/ozumaru)
 
@@ -35,7 +34,6 @@
 
   <!-- NetMiko -->
   [![NetMiko](https://img.shields.io/badge/NetMiko-NM-00c118?style=flat-square&logo=netmiko&logoColor=white)](https://github.com/ktbyers/netmiko)
-
 </p>
 
 
