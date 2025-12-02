@@ -7,18 +7,10 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ozumaru&label=Profile+Views&color=36BCF7&style=flat-square&labelColor=24292F&logo=eye&logoColor=36BCF7" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ozumaru?label=Followers&style=flat-square&color=36BCF7" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Python-PY-fff800?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Ansible-AN-ff0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/VSCode-VS-0097ff?style=flat-square&logo=vscode&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/NetMiko-NM-00c118?style=flat-square&logo=netmiko&logoColor=white" alt="NetMiko" />
-</p>
-
 <div align="center">
   <a href="https://github.com/ozumaru" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=ozumaru&label=Profile+Views&color=36BCF7&style=flat-square&labelColor=24292F&logo=eye&logoColor=36BCF7" alt="Profile Views" /></a>
   <a href="https://github.com/ozumaru?tab=followers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/ozumaru?label=Followers&style=flat-square&color=36BCF7" alt="GitHub Followers" /></a>
+  <a href="https://github.com/ozumaru?tab=following" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/following/ozumaru?label=Following&style=flat-square&color=36BCF7" alt="GitHub Following" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-PY-fff800?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://docs.ansible.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ansible-AN-ff0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VSCode-VS-0097ff?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" /></a>
