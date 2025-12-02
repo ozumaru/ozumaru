@@ -10,6 +10,7 @@
 <div align="center">
   <a href="https://github.com/ozumaru" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=ozumaru&label=Profile+Views&color=36BCF7&style=flat-square&labelColor=24292F&logo=eye&logoColor=36BCF7" alt="Profile Views" /></a>
   <a href="https://github.com/ozumaru?tab=followers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/ozumaru?label=Followers&style=flat-square&color=36BCF7" alt="GitHub Followers" /></a>
+  <a href="https://www.youtube.com/@NetDevOps_Ozumaru" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Youtube-YT-ff0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-PY-fff800?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://docs.ansible.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ansible-AN-ff0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VSCode-VS-0097ff?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" /></a>
