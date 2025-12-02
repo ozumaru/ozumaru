@@ -7,6 +7,12 @@
 
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ozumaru&label=Profile+Views&color=36BCF7&style=flat-square&labelColor=24292F&logo=eye&logoColor=36BCF7" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ozumaru?label=Followers&style=flat-square&color=36BCF7" alt="GitHub Followers" />
+</p>
+
+
 ## 👋 Sobre mim
 
 🔭 Trabalho atualmente com **Infraestrutura de Redes** e estou em constante evolução no mundo da **programação** e **automação**, buscando sempre aprender e compartilhar o que sei.
