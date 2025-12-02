@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/NetMiko-NM-00c118?style=flat-square&logo=netmiko&logoColor=white" alt="NetMiko" />
 </p>
 
+[![NetMiko](https://img.shields.io/badge/NetMiko-NM-00c118?style=flat-square&logo=netmiko&logoColor=white)](https://github.com/ktbyers/netmiko)
+
 
 ## 👋 Sobre mim
 
