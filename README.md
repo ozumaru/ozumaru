@@ -11,9 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=ozumaru&label=Profile+Views&color=36BCF7&style=flat-square&labelColor=24292F&logo=eye&logoColor=36BCF7" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ozumaru?label=Followers&style=flat-square&color=36BCF7" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Python-PY-fff800?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Ansible-AN-E34A6F?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/VSCode-VS-E34A6F?style=flat-square&logo=vscode&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/NetMiko-NM-E34A6F?style=flat-square&logo=netmiko&logoColor=white" alt="NetMiko" />
+  <img src="https://img.shields.io/badge/Ansible-AN-ff0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/VSCode-VS-0097ff?style=flat-square&logo=vscode&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/NetMiko-NM-00c118?style=flat-square&logo=netmiko&logoColor=white" alt="NetMiko" />
 </p>
 
 
