@@ -151,3 +151,15 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
 <h4 align="center">
   🚧  Projeto README 🚀 Em contrução 🚧
 </h4>
+
+---
+
+<div align="center">
+  <a href="https://github.com/ozumaru" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=ozumaru&label=Profile+Views&color=36BCF7&style=flat-square&labelColor=24292F&logo=eye&logoColor=36BCF7" alt="Profile Views" /></a>
+
+  <a href="https://github.com/ozumaru/CiscoDevNet---Python/tree/master/Documents/Preparando_Ambiente" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=ozumaru&label=Ambiente&color=36BCF7&style=flat-square&labelColor=24292F&logo=eye&logoColor=36BCF7" alt="Ambiente" /></a>
+
+  <a href="https://github.com/ozumaru/CiscoDevNet---Python" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=ozumaru&label=CiscoDevNet+Python&color=36BCF7&style=flat-square&labelColor=24292F&logo=eye&logoColor=36BCF7" alt="CiscoDevNet Python" /></a>
+  
+  <a href="https://github.com/ozumaru/CiscoDevNet---Python/tree/master/Documents/Projetos" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=ozumaru&label=Projetos&color=36BCF7&style=flat-square&labelColor=24292F&logo=eye&logoColor=36BCF7" alt="Projetos" /></a>
+</div>
