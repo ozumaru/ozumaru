@@ -18,7 +18,7 @@
 </div>
 
 ## 📽️ Video de apresentação meu Github
-- [Apresentação GITHBU OZUMARU](https://www.youtube.com/watch?v=0TyDabzhBSA)
+- [Apresentação GITHUB OZUMARU](https://www.youtube.com/watch?v=0TyDabzhBSA)
 
 ## 👋 Sobre mim
 
