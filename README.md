@@ -17,6 +17,9 @@
   <a href="https://github.com/ktbyers/netmiko" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NetMiko-NM-00c118?style=flat-square&logo=netmiko&logoColor=white" alt="NetMiko" /></a>
 </div>
 
+## 📽️ Siga meu Canal no Youtube /  Follow on my Youtube channel! 
+- [NetDevOps_Ozumaru](https://www.youtube.com/@NetDevOps_Ozumaru)
+
 ## 📽️ Video de apresentação meu Github
 - [Apresentação GITHUB OZUMARU](https://www.youtube.com/watch?v=0TyDabzhBSA)
 
