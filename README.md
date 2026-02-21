@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/@NetDevOps_Ozumaru" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Youtube-YT-ff0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Python-PY-fff800?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://docs.ansible.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ansible-AN-ff0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" /></a>
-  <a href="https://github.com/netbox-community/netbox"> target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NetBox-NB-ff6600?style=flat-square"  alt="Netbox" /></a>
+  <a href="https://github.com/netbox-community/netbox" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NetBox-NB-ff6600?style=flat-square" alt="Ansible" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VSCode-VS-0097ff?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" /></a>
   <a href="https://github.com/ktbyers/netmiko" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NetMiko-NM-00c118?style=flat-square&logo=netmiko&logoColor=white" alt="NetMiko" /></a>
 </div>
