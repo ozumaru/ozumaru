@@ -81,7 +81,7 @@ Esses são meus dois pontos de referencia para começar nesse mundo de programa�
 
 ## 🥊 Projetos 🥋
   - [Mini_Projetos - Python para Network](https://github.com/ozumaru/CiscoDevNet---Python/tree/master/Documents/Projetos) - Em andamento 🚧 - NEW ! ! ! 🤯
-  - [Projetos Netbox - Sincronismo de CSV para Base NETBOX](https://github.com/ozumaru/Netbox_API_Requests)
+  - [Projeto Netbox - Sincronismo de CSV para Base NETBOX](https://github.com/ozumaru/Netbox_API_Requests)
 
 ---
 ## 🎮 Tecnologias 🕹
