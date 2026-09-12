@@ -21,7 +21,7 @@
 ## 📽️ Siga meu Canal no Youtube /  Follow on my Youtube channel! 
 - [NetDevOps_Ozumaru](https://www.youtube.com/@NetDevOps_Ozumaru)
 
-## 📽️ Video de apresentação meu Github - Teste
+## 📽️ Video de apresentação meu Github
 - [Apresentação GITHUB OZUMARU](https://www.youtube.com/watch?v=0TyDabzhBSA)
 
 ## 👋 Sobre mim
