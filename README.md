@@ -84,30 +84,9 @@ Esses são meus dois pontos de referência para começar nesse mundo de programa
 > Porque, no fim, só existe um caminho:
 > **subir de nível até que o impossível se curve diante de mim.**" -->
 
-#!/bin/bash
-
-texto='> ### ⚔️ **E assim como o lendário Sung Jin-Woo diria…**
-> "Eu renasço a cada desafio, assim como o Shadow Monarch ergue seus exércitos.
-> O mundo pode tentar me derrubar, mas toda queda é apenas o momento em que desperto um novo poder.
-> Eu não caminho… eu avanço.
-> Eu não desisto… eu evoluo.
-> Porque, no fim, só existe um caminho:
-> **subir de nível até que o impossível se curve diante de mim.**"'
-
-digitar() {
-  local linha="$1"
-  local atraso="${2:-0.02}"
-  for (( i=0; i<${#linha}; i++ )); do
-    printf "%s" "${linha:$i:1}"
-    sleep "$atraso"
-  done
-  echo
-}
-
-while IFS= read -r linha; do
-  digitar "$linha" 0.02
-  sleep 0.15
-done <<< "$texto"
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=E+assim+como+o+lend%C3%A1rio+Sung+Jin-Woo+diria...;Eu+renasco+a+cada+desafio%2C+assim+como+o+Shadow+Monarch;O+mundo+pode+tentar+me+derrubar%2C+mas+toda+queda+e+um+despertar;Eu+nao+caminho...+eu+avanco.;Eu+nao+desisto...+eu+evoluo.;Subir+de+nivel+ate+que+o+impossivel+se+curve+diante+de+mim." />
+</div>
 
 <p align="center">
   <img src="https://github.com/ozumaru/ozumaru/blob/main/jinwoo.gif" width="700">
