@@ -76,46 +76,42 @@ Se você caiu aqui buscando aprender **Python do zero**, quero te indicar EXATAM
 
 Esses são meus dois pontos de referência para começar nesse mundo de programação, e foi onde eu comecei, sou muito grato a eles. 👽🤖❤️‍🔥
 
-> ### ⚔️ **E assim como o lendário Sung Jin-Woo diria…**
+<!-- > ### ⚔️ **E assim como o lendário Sung Jin-Woo diria…**
 > "Eu renasço a cada desafio, assim como o Shadow Monarch ergue seus exércitos.
 > O mundo pode tentar me derrubar, mas toda queda é apenas o momento em que desperto um novo poder.
 > Eu não caminho… eu avanço.
 > Eu não desisto… eu evoluo.
 > Porque, no fim, só existe um caminho:
-> **subir de nível até que até o impossível se curve diante de mim.**"
+> **subir de nível até que o impossível se curve diante de mim.**" -->
+
+#!/bin/bash
+
+texto='> ### ⚔️ **E assim como o lendário Sung Jin-Woo diria…**
+> "Eu renasço a cada desafio, assim como o Shadow Monarch ergue seus exércitos.
+> O mundo pode tentar me derrubar, mas toda queda é apenas o momento em que desperto um novo poder.
+> Eu não caminho… eu avanço.
+> Eu não desisto… eu evoluo.
+> Porque, no fim, só existe um caminho:
+> **subir de nível até que o impossível se curve diante de mim.**"'
+
+digitar() {
+  local linha="$1"
+  local atraso="${2:-0.02}"
+  for (( i=0; i<${#linha}; i++ )); do
+    printf "%s" "${linha:$i:1}"
+    sleep "$atraso"
+  done
+  echo
+}
+
+while IFS= read -r linha; do
+  digitar "$linha" 0.02
+  sleep 0.15
+done <<< "$texto"
 
 <p align="center">
   <img src="https://github.com/ozumaru/ozumaru/blob/main/jinwoo.gif" width="700">
 </p>
-
----
-
-<!-- <h1><p align="center">🐉 Hands On 🐦‍🔥</p></h1>
-
-## Preparando o Ambiente
-- [Preparando o Ambiente](https://github.com/ozumaru/CiscoDevNet---Python/tree/master/Documents/Preparando_Ambiente) - Concluído 👽
-
-## Passo-a-Passo inicial
-- [Python para Network](https://github.com/ozumaru/CiscoDevNet---Python) - Concluído 👽
-- [Sublime Text](https://github.com/ozumaru/Ozumaru-Sublime-Text) - Concluído 👽
-
-## 🥊 Projetos 🥋
-- [Mini_Projetos - Python para Network](https://github.com/ozumaru/CiscoDevNet---Python/tree/master/Documents/Projetos) - Em andamento 🚧 - NEW ! ! ! 🤯
-
----
-
-## 🎮 Tecnologias 🕹
-
-As seguintes ferramentas e bibliotecas foram usadas na construção dos projetos:
-
-**Ferramentas:**
-- [Python](https://www.python.org)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Sublime Text 3](https://www.sublimetext.com/)
-- [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
-
-**Bibliotecas:**
-- [Netmiko](https://github.com/ktbyers/netmiko) -->
 
 ---
 <h1><p align="center">🐉 Hands On 🐦‍🔥</p></h1>
