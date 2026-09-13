@@ -146,6 +146,9 @@ As seguintes ferramentas e bibliotecas foram usadas na construção dos projetos
   <table>
     <tr>
       <td align="center"><img src="https://ktbyers.github.io/netmiko/images/netmiko_logo_gh.png" width="100" height="50" /><br/>netmiko</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" /><br/>FastAPI</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="50" height="50" /><br/>Requests</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/json.svg" width="50" height="50" /><br/>JSON</td>
     </tr>
   </table>
 </div>
