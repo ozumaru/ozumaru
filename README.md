@@ -159,11 +159,7 @@ As seguintes ferramentas e bibliotecas foram usadas na construção dos projetos
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ozumaru&show_icons=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozumaru&layout=compact&hide_border=true&title_color=36BCF7"/>
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
