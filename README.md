@@ -1,3 +1,5 @@
+<!-- <h1><p align="center"> 👾Olá, Eu sou o José OsMar!🌊</p></h1> -->
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=1,17&text=José%20Osmar%20Caitano&animation=fadeIn&fontAlign=50&textBg=false&desc=Network%20-%20Automation&fontSize=48&fontAlignY=35&descAlignY=60&reversal=true"
@@ -26,87 +28,160 @@
 
 ## 👋 Sobre mim
 
-🔭 Trabalho com **Infraestrutura de Redes** e estou em constante evolução no mundo da **programação** e **automação**, buscando sempre aprender e compartilhar o que sei.
+| 🏷️ | Detalhes |
+|:---:|:---|
+| 👤 **Nome** | José Osmar Caitano |
+| 💼 **Área** | Infraestrutura de Redes |
+| 🐍 **Uso de Python** | Automatizar tarefas repetitivas, coletar informações de vários equipamentos ao mesmo tempo e aplicar comandos simultaneamente na rede |
+| 🔧 **Outras ferramentas** | Ansible, Netmiko, RestAPI, Linux |
+| 📽️ **Canal** | [NetDevOps_Ozumaru](https://www.youtube.com/@NetDevOps_Ozumaru) |
 
-🐍 Uso **Python** para criar ferramentas que facilitam meu dia a dia: automatizar tarefas repetitivas, coletar informações de vários equipamentos ao mesmo tempo e aplicar comandos simultaneamente na rede. Esses projetos nasceram da necessidade real de agilizar processos — e agora compartilho tudo aqui para ajudar quem está na mesma jornada.
+🔭 Trabalho atualmente com **Infraestrutura de Redes** e estou em constante evolução no mundo da **programação** e **automação**, buscando sempre aprender e compartilhar o que sei.
+
+🐍 Tenho usado **Python** para criar ferramentas que facilitam meu dia a dia: automatizar tarefas repetitivas, coletar informações de vários equipamentos ao mesmo tempo e aplicar comandos simultaneamente na rede.
+Esses projetos nasceram da necessidade real de agilizar processos — e agora compartilho tudo aqui para ajudar quem está na mesma jornada.
 
 🤓 Meu objetivo neste espaço é duplo:
 1. Me manter motivado a aprender cada vez mais.
-2. Ajudar quem também quer automatizar seu ambiente, mostrando meu raciocínio e o caminho que segui até os resultados.
+2. Ajudar quem também quer automatizar seu ambiente, mostrando meu raciocínio e o caminho que segui para chegar nos resultados.
 
-🔧 Trabalho hoje com **Python**, **Ansible**, **Netmiko**, **FastAPI**, **Streamlit**, **NetBox** e **Redis** aplicados a automação de rede (NetDevOps), além de conteúdos sobre **Linux** e **RestAPI**.
-
----
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Nome do projeto] | [Breve descrição do que faz] | [Tecnologias] |
-| [Nome do projeto] | [Breve descrição do que faz] | [Tecnologias] |
-| [Nome do projeto] | [Breve descrição do que faz] | [Tecnologias] |
-
-> Adicione aqui os repositórios que melhor representam seu trabalho atual, com link direto para cada um.
+🔧 Além de Python, também pretendo trazer conteúdos envolvendo **Ansible**, **Netmiko**, **RestAPI**, **Linux** e outras ferramentas que fazem parte do meu cotidiano.
 
 ---
 
-## 🛠 Stack técnica
+## 📽️ Siga meu Canal no Youtube / Follow on my Youtube channel!
+- [NetDevOps_Ozumaru](https://www.youtube.com/@NetDevOps_Ozumaru)
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" /><br/>Python</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /><br/>Linux</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=ansible" width="50" height="50" /><br/>Ansible</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /><br/>VS Code</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /><br/>Postman</td>
-    </tr>
-  </table>
-</div>
-
-**Bibliotecas & frameworks:** Netmiko · FastAPI · Streamlit · NetBox · Redis
+## 📽️ Vídeo de apresentação meu Github
+- [Apresentação GITHUB OZUMARU](https://www.youtube.com/watch?v=0TyDabzhBSA)
 
 ---
 
-## 🏆 Certificações
+## ⚠️ Antes de tudo
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://github.com/ozumaru/ozumaru/blob/main/RS_Associate.png" width="100" height="100"><br/>CCNA: Routing & Switching</td>
-      <td align="center"><img src="https://github.com/ozumaru/ozumaru/blob/main/Devnet_Associate.png" width="100" height="100"><br/>CCNA: DevNet</td>
-    </tr>
-  </table>
-</div>
+Tudo o que compartilho aqui vem de experiências acumuladas desde **2017 até hoje**, trabalhando diariamente com Redes.
+Sou alguém da área de Infra que aprendeu programação para resolver problemas reais — e agora estou passando esse conhecimento adiante.
 
----
-
-## 📽️ Canal e apresentação
-
-- [NetDevOps_Ozumaru no YouTube](https://www.youtube.com/@NetDevOps_Ozumaru) — conteúdos sobre automação de redes
-- [Vídeo de apresentação do meu GitHub](https://www.youtube.com/watch?v=0TyDabzhBSA)
+Se você caiu aqui buscando aprender **Python do zero**, quero te indicar EXATAMENTE o caminho que eu recomendo para todo mundo que me pergunta:
 
 ---
 
 ## 📌 Recomendações de estudo
 
-Tudo o que compartilho aqui vem de experiências acumuladas desde **2017**, trabalhando diariamente com Redes. Sou alguém da área de Infra que aprendeu programação para resolver problemas reais — e agora estou passando esse conhecimento adiante.
+🔹 [ME SALVA](https://www.youtube.com/watch?v=ntBxoTSnfkA&list=PLf1lowbdbFIBoLeVGwkCYySkLS1lV3ixF) – Ideal para aprender **Algoritmo e Lógica Computacional**.
 
-Se você chegou aqui querendo aprender **Python do zero**, este é o caminho que recomendo:
+🔹 [Curso em Video](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=2) – A forma mais didática e gratuita de aprender **Python do básico ao avançado**, com muitos exercícios.
 
-- 🔹 [ME SALVA](https://www.youtube.com/watch?v=ntBxoTSnfkA&list=PLf1lowbdbFIBoLeVGwkCYySkLS1lV3ixF) — ideal para aprender **Algoritmo e Lógica Computacional**.
-- 🔹 [Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=2) — a forma mais didática e gratuita de aprender **Python do básico ao avançado**, com muitos exercícios.
+**Dica:** Abra os links em "nova aba" para não sair do GitHub. 😉
 
-**Dica:** abra os links em "nova aba" para não sair do GitHub.
+Esses são meus dois pontos de referência para começar nesse mundo de programação, e foi onde eu comecei, sou muito grato a eles. 👽🤖❤️‍🔥
 
-Foram meus dois pontos de partida nesse mundo da programação — sou muito grato a eles.
+> ### ⚔️ **E assim como o lendário Sung Jin-Woo diria…**
+> "Eu renasço a cada desafio, assim como o Shadow Monarch ergue seus exércitos.
+> O mundo pode tentar me derrubar, mas toda queda é apenas o momento em que desperto um novo poder.
+> Eu não caminho… eu avanço.
+> Eu não desisto… eu evoluo.
+> Porque, no fim, só existe um caminho:
+> **subir de nível até que até o impossível se curve diante de mim.**"
+
+<p align="center">
+  <img src="https://github.com/ozumaru/ozumaru/blob/main/jinwoo.gif" width="700">
+</p>
 
 ---
 
-## 🐍 Contribuições
+<h1><p align="center">🐉 Hands On 🐦‍🔥</p></h1>
+
+## Preparando o Ambiente
+- [Preparando o Ambiente](https://github.com/ozumaru/CiscoDevNet---Python/tree/master/Documents/Preparando_Ambiente) - Concluído 👽
+
+## Passo-a-Passo inicial
+- [Python para Network](https://github.com/ozumaru/CiscoDevNet---Python) - Concluído 👽
+- [Sublime Text](https://github.com/ozumaru/Ozumaru-Sublime-Text) - Concluído 👽
+
+## 🥊 Projetos 🥋
+- [Mini_Projetos - Python para Network](https://github.com/ozumaru/CiscoDevNet---Python/tree/master/Documents/Projetos) - Em andamento 🚧 - NEW ! ! ! 🤯
+
+---
+
+## 🎮 Tecnologias 🕹
+
+As seguintes ferramentas e bibliotecas foram usadas na construção dos projetos:
+
+**Ferramentas:**
+- [Python](https://www.python.org)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Sublime Text 3](https://www.sublimetext.com/)
+- [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
+**Bibliotecas:**
+- [Netmiko](https://github.com/ktbyers/netmiko)
+
+---
+
+## 💼 Ferramentas, Tecnologias e meus conhecimentos
+
+### 💻 Linguagens
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" height="50" /><br/>Python</td>
+    </tr>
+  </table>
+</div>
+
+### 📚 Bibliotecas
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://ktbyers.github.io/netmiko/images/netmiko_logo_gh.png" width="100" height="50" /><br/>netmiko</td>
+    </tr>
+  </table>
+</div>
+
+### 🛠 Ferramentas & Tecnologias
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=sublime" width="50" height="50" /><br/>Sublime Text</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" /><br/>PyCharm</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /><br/>Visual Code</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /><br/>Postman</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /><br/>Linux</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ansible" width="50" height="50" /><br/>Ansible</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ozumaru&show_icons=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozumaru&layout=compact&hide_border=true&title_color=36BCF7"/>
+
+</div>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+    <h2><p align="center">🏆Certificações🏆</p></h2>
+      <td align="center"><img src="https://github.com/ozumaru/ozumaru/blob/main/RS_Associate.png" width="100" height="100" width="100"></a><br/>CCNA: Routing&Switch</td>
+      <td align="center"><img src="https://github.com/ozumaru/ozumaru/blob/main/Devnet_Associate.png" width="100" height="100" width="100"></a><br/>CCNA: DevNet</td>
+    </tr>
+  </table>
+</div>
+
+---
 
 <div align="center">
   <picture>
+    <h2><p align="center">🐍 Contribuições! 🐍</p></h2>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozumaru/ozumaru/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozumaru/ozumaru/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ozumaru/ozumaru/output/github-contribution-grid-snake.svg">
