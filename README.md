@@ -161,8 +161,12 @@ As seguintes ferramentas e bibliotecas foram usadas na construção dos projetos
       <td align="center"><img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" /><br/>PyCharm</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /><br/>Visual Code</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /><br/>Postman</td>
+    </tr>
+    <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /><br/>Linux</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=ansible" width="50" height="50" /><br/>Ansible</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="50" height="50" /><br/>Grafana</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" /><br/>React</td>
     </tr>
   </table>
 </div>
