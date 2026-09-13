@@ -161,12 +161,14 @@ As seguintes ferramentas e bibliotecas foram usadas na construção dos projetos
       <td align="center"><img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" /><br/>PyCharm</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /><br/>Visual Code</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" /><br/>Postman</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /><br/>Linux</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50" /><br/>Linux</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=ansible" width="50" height="50" /><br/>Ansible</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="50" height="50" /><br/>Grafana</td>
       <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" /><br/>React</td>
+      <td align="center"><img src="https://docs.netbox.dev/en/stable/netbox_logo_icon.svg" width="50" height="50" /><br/>NetBox</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/nautobot/nautobot/main/nautobot/docs/media/icon-nautobot.png" width="50" height="50" /><br/>Nautobot</td>
     </tr>
   </table>
 </div>
