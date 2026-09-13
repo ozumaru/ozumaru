@@ -8,11 +8,9 @@
 </p>
 
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%91%BEOl%C3%A1,+Seja+muito+bem-vindo+ao+meu+perfil!;%F0%9F%9B%9CNetwork+%E2%80%A2+%F0%9F%90%8DPython+%E2%80%A2+%F0%9F%9A%80Ansible+%E2%80%A2+%F0%9F%A4%96Automa%C3%A7%C3%A3o;%F0%9F%90%89Bora+multiplicar+conhecimento!%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5" alt="Typing SVG" border="0" style="border:none; outline:none;" />
-</a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%91%BEOl%C3%A1,+Seja+muito+bem-vindo+ao+meu+perfil!;%F0%9F%9B%9CNetwork+%E2%80%A2+%F0%9F%90%8DPython+%E2%80%A2+%F0%9F%9A%80Ansible+%E2%80%A2+%F0%9F%A4%96Automa%C3%A7%C3%A3o;%F0%9F%90%89Bora+multiplicar+conhecimento!%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5" alt="Typing SVG" border="0" style="border:none; outline:none;" />
+  </a>
 </div>
 
 <div align="center">
@@ -162,8 +160,9 @@ As seguintes Ferramentas e Bibliotecas foram usadas na construção dos projetos
 </div>
 
 ---
-<h4 align="center">
-  🚧  Projeto README 🚀 Em contrução 🚧
-</h4>
-
----
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=1,17&animation=fadeIn&fontAlign=50&textBg=false&fontSize=48&fontAlignY=35&descAlignY=60&reversal=true&section=footer"
+    width="100%"
+  />
+</p>
