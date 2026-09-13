@@ -89,7 +89,7 @@ Esses são meus dois pontos de referência para começar nesse mundo de programa
 </p>
 
 ---
-
+<!-- 
 <h1><p align="center">🐉 Hands On 🐦‍🔥</p></h1>
 
 ## Preparando o Ambiente
@@ -116,6 +116,42 @@ As seguintes ferramentas e bibliotecas foram usadas na construção dos projetos
 
 **Bibliotecas:**
 - [Netmiko](https://github.com/ktbyers/netmiko)
+
+--- -->
+<h1><p align="center">🐉 Hands On 🐦‍🔥</p></h1>
+
+## Preparando o Ambiente
+
+| Item | Link | Status |
+|---|---|:---:|
+| Preparando o Ambiente | [Acessar](https://github.com/ozumaru/CiscoDevNet---Python/tree/master/Documents/Preparando_Ambiente) | Concluído 👽 |
+
+## Passo-a-Passo inicial
+
+| Item | Link | Status |
+|---|---|:---:|
+| Python para Network | [Acessar](https://github.com/ozumaru/CiscoDevNet---Python) | Concluído 👽 |
+| Sublime Text | [Acessar](https://github.com/ozumaru/Ozumaru-Sublime-Text) | Concluído 👽 |
+
+## 🥊 Projetos 🥋
+
+| Item | Link | Status |
+|---|---|:---:|
+| Mini_Projetos - Python para Network | [Acessar](https://github.com/ozumaru/CiscoDevNet---Python/tree/master/Documents/Projetos) | Em andamento 🚧 NEW! ! ! 🤯 |
+
+---
+
+## 🎮 Tecnologias 🕹
+
+As seguintes ferramentas e bibliotecas foram usadas na construção dos projetos:
+
+| Tipo | Item | Link |
+|---|---|---|
+| Ferramenta | Python | [Acessar](https://www.python.org) |
+| Ferramenta | Visual Studio Code | [Acessar](https://code.visualstudio.com/) |
+| Ferramenta | Sublime Text 3 | [Acessar](https://www.sublimetext.com/) |
+| Ferramenta | Putty | [Acessar](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) |
+| Biblioteca | Netmiko | [Acessar](https://github.com/ktbyers/netmiko) |
 
 ---
 
