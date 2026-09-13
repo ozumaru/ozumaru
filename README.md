@@ -89,7 +89,7 @@ Esses são meus dois pontos de referência para começar nesse mundo de programa
 </p>
 
 ---
-<!-- 
+
 <h1><p align="center">🐉 Hands On 🐦‍🔥</p></h1>
 
 ## Preparando o Ambiente
@@ -117,8 +117,8 @@ As seguintes ferramentas e bibliotecas foram usadas na construção dos projetos
 **Bibliotecas:**
 - [Netmiko](https://github.com/ktbyers/netmiko)
 
---- -->
-<h1><p align="center">🐉 Hands On 🐦‍🔥</p></h1>
+---
+<!-- <h1><p align="center">🐉 Hands On 🐦‍🔥</p></h1>
 
 ## Preparando o Ambiente
 
@@ -151,7 +151,7 @@ As seguintes ferramentas e bibliotecas foram usadas na construção dos projetos
 | Ferramenta | Visual Studio Code | [Acessar](https://code.visualstudio.com/) |
 | Ferramenta | Sublime Text 3 | [Acessar](https://www.sublimetext.com/) |
 | Ferramenta | Putty | [Acessar](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) |
-| Biblioteca | Netmiko | [Acessar](https://github.com/ktbyers/netmiko) |
+| Biblioteca | Netmiko | [Acessar](https://github.com/ktbyers/netmiko) | -->
 
 ---
 
