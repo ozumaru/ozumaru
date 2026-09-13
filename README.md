@@ -85,7 +85,7 @@ Esses são meus dois pontos de referência para começar nesse mundo de programa
 > **subir de nível até que o impossível se curve diante de mim.**" -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=E+assim+como+o+lend%C3%A1rio+Sung+Jin-Woo+diria...;Eu+renasco+a+cada+desafio%2C+assim+como+o+Shadow+Monarch;O+mundo+pode+tentar+me+derrubar%2C+mas+toda+queda+e+um+despertar;Eu+nao+caminho...+eu+avanco.;Eu+nao+desisto...+eu+evoluo.;Subir+de+nivel+ate+que+o+impossivel+se+curve+diante+de+mim." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&pause=1500&color=FF6B00&center=true&vCenter=true&width=700&lines=E+assim+como+o+lend%C3%A1rio+Sung+Jin-Woo+diria...;Eu+renasco+a+cada+desafio%2C+assim+como+o+Shadow+Monarch;O+mundo+pode+tentar+me+derrubar%2C+mas+toda+queda+e+um+despertar;Eu+nao+caminho...+eu+avanco.;Eu+nao+desisto...+eu+evoluo.;Subir+de+nivel+ate+que+o+impossivel+se+curve+diante+de+mim." />
 </div>
 
 <p align="center">
